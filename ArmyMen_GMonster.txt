@@ -1,1 +1,1 @@
-https://play.google.com/store/apps/details?id=com.flying.robot.us.police.helicopter.simulator
+market://details?id=com.flying.robot.us.police.helicopter.simulator
