@@ -1,1 +1,0 @@
-market://details?id=com.flying.robot.us.police.helicopter.simulator
